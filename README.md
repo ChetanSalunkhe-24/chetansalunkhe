@@ -8,9 +8,11 @@
 ### Featured Projects:
 ---
 
-#### 1. CI/CD for Angular App using Jenkine & Tomcat
+#### 1. Salenium-Framework
+ - [ChetanSalunkhe-24/selenium-framework](https://github.com/ChetanSalunkhe-24/selenium-framework)
+#### 2. CI/CD for Angular App using Jenkine & Tomcat
  - [ChetanSalunkhe-24/ci-cd-angular-jenkins-tomcat](https://github.com/ChetanSalunkhe-24/ci-cd-angular-jenkins-tomcat)
-#### 2. CI/CD using AWS Cloud-Native Services
+#### 3. CI/CD using AWS Cloud-Native Services
  - [ChetanSalunkhe-24/aws-angular-cicd-pipeline](https://github.com/ChetanSalunkhe-24/aws-angular-cicd-pipeline)
 
 ---
